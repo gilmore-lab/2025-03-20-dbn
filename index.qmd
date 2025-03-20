@@ -42,6 +42,7 @@ params:
 ![<https://databrary.github.io/nsf-2444730/>](https://databrary.github.io/nsf-2444730/include/img/Fig-1-Aims-v2.png)
 
 - Help us make Databrary better
+- Demographics, measures, metadata
 
 # Thank you
 
