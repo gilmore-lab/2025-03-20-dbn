@@ -19,8 +19,8 @@ format:
 # bibliography: include/bib/hk-polytech.bib
 # bibliographystyle: apa
 # css: include/css/gilmore-revealjs.css
-params:
-  talk_url: "https://gilmore-lab.github.io/2025-02-14-hong-kong-polytech"
+# params:
+#   talk_url: "https://gilmore-lab.github.io/2025-02-14-hong-kong-polytech"
 ---
 
 ![<https://databrary.org>](include/img/databrary-nav-sm.jpg)
@@ -42,12 +42,9 @@ params:
 
 ![<https://databrary.github.io/nsf-2444730/>](https://databrary.github.io/nsf-2444730/include/img/Fig-1-Aims-v2.png)
 
-- Custom collections/virtual volumes, workspaces, expanded search, automation
+- Custom collections/virtual volumes, workspaces, expanded search, automation (R, Python packages)
 - Demographics, measures, metadata
 
 ---
 
 ![https://giphy.com/gifs/beyonce-amber-rose-ayesha-curry-H8mHrjPswQ0Zq](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU2aGd6ODF3ZG1xbnZpd3RyYmx5M2dzNnhsa2FiOHRndjRuMHZ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H8mHrjPswQ0Zq/giphy.gif)
-
-
-
