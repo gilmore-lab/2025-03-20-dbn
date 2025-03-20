@@ -1,0 +1,47 @@
+---
+title: "Databrary 2.0"
+subtitle: "Discover more, faster"
+author: "Rick O. Gilmore"
+format: 
+  revealjs:
+    theme: default
+    footer: "DBN 2025-03-15"
+    citations-hover: true
+    footnotes-hover: true
+    link-external-icon: true
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    background-transition: concave
+    fig-align: center
+    multiplex: true
+    logo: include/img/databrary-new-leaf.jpg
+# bibliography: include/bib/hk-polytech.bib
+# bibliographystyle: apa
+# css: include/css/gilmore-revealjs.css
+params:
+  talk_url: "https://gilmore-lab.github.io/2025-02-14-hong-kong-polytech"
+---
+
+![<https://databrary.org>](include/img/databrary-nav-sm.jpg)
+
+::: {.incremental}
+- Entirely new software stack
+- Bugs? We're after them!
+:::
+
+## Next steps
+
+- Two-week sprint cycles
+- This sprint: file uploads, transcoding, bug fixes, UI/UX improvements (~ April 1)
+- Next sprint: search, bug fixes, UI/UX improvements (~ April 15)
+- DB2 quick start [guide](https://databrary.github.io/guide/quick-start-2.0.html)
+
+## NSF 2444730
+
+![<https://databrary.github.io/nsf-2444730/>](https://databrary.github.io/nsf-2444730/include/img/Fig-1-Aims-v2.png)
+
+- Help us make Databrary better
+
+# Thank you
+
